@@ -83,8 +83,7 @@ nav a:hover {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), 
-                url('../images/sam.png');
+    background: url('../images/sam.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
